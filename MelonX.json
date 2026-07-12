@@ -2,7 +2,7 @@
     "name": "MelonX",
     "subtitle": "MelonX Livecontainer Source.",
     "description": "This is the official Livecontainer Source for MelonX.\nNintendo Switch Emulator",
-    "iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/Spotify_Icon.png",
+    "iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/MeloNX_Icon.png",
     "website": "",
     "tintColor": "#D2143A",
     "apps": [
@@ -12,7 +12,7 @@
             "developerName": "RabyG",
             "subtitle": "Nintendo Switch Emulator",
             "localizedDescription": "Nintendo Switch Emulator",
-            "iconURL": "https://raw.githubusercontent.com/leminlimez/Pocket-Poster/refs/heads/main/Pocket%20Poster/Assets.xcassets/AppIcon.appiconset/pocket_poster_transparent.png",
+            "iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/MeloNX_Icon.png",
             "tintColor": "#D2143A",
             "versions": [
                 {
