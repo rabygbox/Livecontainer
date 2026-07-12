@@ -46,9 +46,11 @@
 <table>
 <tr>
 <td>
-<a  
-<img src="./icon/Spotify_Icon.png" alt="Add AltSource" width="200"/>
+<a href="https://github.com/LiveContainer/LiveContainer/releases/latest/download/LiveContainer.ipa" target="_blank">
+   <img src="https://raw.githubusercontent.com/StikStore/altdirect/refs/heads/main/assets/png/Download_Blue.png" alt="Download .ipa" width="200"/>
 </a>
+</td>
+</tr>
 </td>
 <td>
 <a href="https://stikstore.app/altdirect/?url=https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/Spotify.json&r=livecontainer" target="_blank">
