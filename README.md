@@ -44,17 +44,15 @@
 
 ### Standalone 
 <table>
-<tr>test</tr>
+<tr>
 <td>
-<a href="https://github.com/LiveContainer/LiveContainer/releases/latest/download/LiveContainer.ipa" target="_blank">
-   <img src="https://raw.githubusercontent.com/StikStore/altdirect/refs/heads/main/assets/png/Download_Blue.png" alt="Download .ipa" width="200"/>
+<a href="[https://stikstore.app/altdirect/?url=https://github.com/LiveContainer/LiveContainer/releases/download/1.0/apps.json&exclude=livecontainer](https://stikstore.app/altdirect/?url=https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/MeloNX.json&r=livecontainer)" target="_blank">
+   <img src="./icon/MeloNX_Icon.png" alt="Add AltSource" width="200"/>
 </a>
 </td>
-</tr>
-</td>
 <td>
-<a href="https://stikstore.app/altdirect/?url=https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/Spotify.json&r=livecontainer" target="_blank">
-   <img src="./icon/Spotify_Icon.png" alt="Add AltSource" width="200"/>
+<a href="https://stikstore.app/altdirect/?url=https://github.com/LiveContainer/LiveContainer/releases/download/1.0/apps.json&exclude=livecontainer" target="_blank">
+   <img src="https://raw.githubusercontent.com/StikStore/altdirect/refs/heads/main/assets/png/AltSource_Blue.png" alt="Add AltSource" width="200"/>
 </a>
 </td>
 <td>
@@ -79,6 +77,3 @@ Nightly
 </td>
 </tr>
 </table>
-   
-   
-
