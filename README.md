@@ -1,6 +1,6 @@
 <td>
 <div align="center">
-<a href="https://github.com/nab138/iloader/releases/latest/download/iloader-windows-x64.msi" target="_blank">
+<a href="https://sidestore.io" target="_blank">
  <img width="117" height="117" 
     <img src="https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/icon.png" alt="Add AltSource"/>
 </a>
