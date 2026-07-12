@@ -33,8 +33,8 @@
     "apps": [
         {
             "name": "Spotify",
-            "bundleIdentifier": "com.lemin.Pocket-Poster",
-            "developerName": "LeminLimez",
+            "bundleIdentifier": "com.spotify.client.app",
+            "developerName": "RabyG",
             "subtitle": "Custom PosterBoard animated wallpapers for iOS 17.0+",
             "localizedDescription": "Custom PosterBoard animated wallpapers for iOS 17.0+",
             "iconURL": "https://raw.githubusercontent.com/leminlimez/Pocket-Poster/refs/heads/main/Pocket%20Poster/Assets.xcassets/AppIcon.appiconset/pocket_poster_transparent.png",
