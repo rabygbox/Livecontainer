@@ -1,19 +1,3 @@
-<div align="center">
-   <img width="217" height="217" src="https://github.com/LiveContainer/LiveContainer/blob/main/screenshots/livecontainer_icon.png" alt="Logo">
-</div>
-
-<div align="center">
-  <h1><b>LiveContainer</b></h1>
-  <p><i>An app launcher that runs iOS apps without actually installing them! </i></p>
-</div>
-<h6 align="center">
-
-
-
-
-
-
-
 
 
 
