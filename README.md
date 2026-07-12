@@ -29,7 +29,7 @@
 </div>
 
 <div align="center">
-  <h1><b>MelonX v2.3.0</b></h1>
+  <h1><b>MelonX v2.3.1</b></h1>
   <p><i>https://stikstore.app/altdirect/?url=https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/MeloNX.json&r=livecontainer</i></p>
 </div>
 <h6 align="center">
