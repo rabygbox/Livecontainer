@@ -1,5 +1,5 @@
 {
-    "name": "MelonX",
+    "name": "MeloNX",
     "subtitle": "MelonX Livecontainer Source.",
     "description": "This is the official Livecontainer Source for MelonX.\nNintendo Switch Emulator",
     "iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/MeloNX_Icon.png",
@@ -7,7 +7,7 @@
     "tintColor": "#D2143A",
     "apps": [
         {
-            "name": "MelonX",
+            "name": "MeloNX",
             "bundleIdentifier": "com.stossy11.MeloNX.app",
             "developerName": "RabyG",
             "subtitle": "Nintendo Switch Emulator",
