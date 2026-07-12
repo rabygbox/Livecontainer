@@ -46,8 +46,7 @@
 <table>
 <tr>   
 <td>
-<a href="https://stikstore.app/altdirect/?url=https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/MeloNX.json&r=livecontainer" target="_blank">
-   <a MeloNX 2.3.1/>
+<a href="https://stikstore.app/altdirect/?url=https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/MeloNX.json&r=livecontainer" target="">
 </a>
 </td>
 <td>
