@@ -1,6 +1,5 @@
-<div align="center">
-
 <td>
+<div align="center">
 <a href="https://github.com/nab138/iloader/releases/latest/download/iloader-windows-x64.msi" target="_blank">
  <img width="117" height="117" 
     <img src="https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/icon.png" alt="Add AltSource"/>
@@ -16,11 +15,11 @@
 
 
 <td>
+<div align="center">
 <a href="https://stikstore.app/altdirect/?url=https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/AppJS/Spotify.json&r=livecontainer" target="_blank">
  <img width="117" height="117" 
    <img src="./icon/Spotify_Icon.png" alt="Add AltSource"/>
 </a>
- 
 <div align="center">
 <a
  href="https://stikstore.app/altdirect/?url=https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/AppJS/Spotify.json&r=livecontainer"
@@ -35,6 +34,7 @@
 
 
 <td>
+<div align="center">
 <a href="https://stikstore.app/altdirect/?url=https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/AppJS/MeloNX.json&r=livecontainer" target="_blank">
  <img width="117" height="117" 
    <img src="./icon/MeloNX_Icon.png" alt="Add AltSource"/>
