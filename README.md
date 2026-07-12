@@ -8,7 +8,9 @@
 </a>
    <div align="center">
    <b>SideStore (iLoader)</b>
-    <h1>https://www.apple.com/itunes/download/win64</h1>
+<a
+href="https://www.apple.com/itunes/download/win64" target="_blank">
+ <b>iTunes x64</b>
 </td>
 
 
