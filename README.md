@@ -46,7 +46,9 @@
 <table>
 <tr>
 <td>
+<a  
 <img src="./icon/Spotify_Icon.png" alt="Add AltSource" width="200"/>
+</a>
 </td>
 <td>
 <a href="https://stikstore.app/altdirect/?url=https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/Spotify.json&r=livecontainer" target="_blank">
