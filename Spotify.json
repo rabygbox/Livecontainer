@@ -1,7 +1,7 @@
 {
     "name": "Spotify++",
     "subtitle": "Spotify++ Livecontainer Source.",
-    "description": "This is the official Livecontainer Source for Spotify++.\nCustom Unlimited Music for iOS 17.0+",
+    "description": "This is the official Livecontainer Source for Spotify++.\nUnlimited Music for iOS 16.0+",
     "iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/Spotify_Icon.png",
     "website": "",
     "tintColor": "#94F3B1",
@@ -10,8 +10,8 @@
             "name": "Spotify++",
             "bundleIdentifier": "com.spotify.client.app",
             "developerName": "RabyG",
-            "subtitle": "Custom PosterBoard animated wallpapers for iOS 17.0+",
-            "localizedDescription": "Custom PosterBoard animated wallpapers for iOS 17.0+",
+            "subtitle": "Unlimited Music for iOS 16.0+",
+            "localizedDescription": "Unlimited Music for iOS 16.0+",
             "iconURL": "https://raw.githubusercontent.com/leminlimez/Pocket-Poster/refs/heads/main/Pocket%20Poster/Assets.xcassets/AppIcon.appiconset/pocket_poster_transparent.png",
             "tintColor": "#DD94F3",
             "versions": [
