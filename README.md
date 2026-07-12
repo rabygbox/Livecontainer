@@ -16,7 +16,8 @@
 
 <td>
 <a href="https://stikstore.app/altdirect/?url=https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/MeloNX.json&r=livecontainer" target="_blank">
-   <img src="./icon/MeloNX_Icon.png" alt="Add AltSource" width="200"/>
+ <img width="117" height="117" 
+   <img src="./icon/MeloNX_Icon.png" alt="Add AltSource"/>
 </a>
    <div align="center">
    <h1><b>MelonX v2.3.1</b></h1>
