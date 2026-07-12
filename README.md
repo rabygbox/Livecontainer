@@ -2,7 +2,7 @@
 
 
 <td>
-<a href="https://stikstore.app/altdirect/?url=https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/Spotify.json&r=livecontainer" target="_blank">
+<a href="https://stikstore.app/altdirect/?url=https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/AppJS/Spotify.json&r=livecontainer" target="_blank">
  <img width="117" height="117" 
    <img src="./icon/Spotify_Icon.png" alt="Add AltSource"/>
 </a>
@@ -15,7 +15,7 @@
 
 
 <td>
-<a href="https://stikstore.app/altdirect/?url=https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/MeloNX.json&r=livecontainer" target="_blank">
+<a href="https://stikstore.app/altdirect/?url=https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/AppJS/MeloNX.json&r=livecontainer" target="_blank">
  <img width="117" height="117" 
    <img src="./icon/MeloNX_Icon.png" alt="Add AltSource"/>
 </a>
