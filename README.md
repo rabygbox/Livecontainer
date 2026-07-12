@@ -3,7 +3,7 @@
 <td>
 <a href="https://github.com/nab138/iloader/releases/latest/download/iloader-windows-x64.msi" target="_blank">
  <img width="117" height="117" 
-   <img src="https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/icon.png<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/27ff12cc-ee48-460b-a180-8198f1381c45" />
+   <img src="https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/icon.png" width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/27ff12cc-ee48-460b-a180-8198f1381c45" />
 " alt="Add AltSource"/>
 </a>
 <div align="center">
