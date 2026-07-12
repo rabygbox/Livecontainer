@@ -1,5 +1,5 @@
 <div align="center">
-   <img width="217" height="217" src="https://github.com/LiveContainer/LiveContainer/blob/main/screenshots/livecontainer_icon.png)" alt="Logo">
+   <img width="217" height="217" src="https://github.com/LiveContainer/LiveContainer/blob/main/screenshots/livecontainer_icon.png" alt="Logo">
 </div>
 
 <div align="center">
