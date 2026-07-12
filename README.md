@@ -1,9 +1,9 @@
 <div align="center">
- <img width="117" height="117" 
 
 
 <td>
 <a href="https://stikstore.app/altdirect/?url=https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/Spotify.json&r=livecontainer" target="_blank">
+ <img width="117" height="117" 
    <img src="./icon/Spotify_Icon.png" alt="Add AltSource" width="200"/>
 </a>
    <div align="center">
