@@ -49,8 +49,8 @@
 Stable
 </td>
 <td>
-<a href="https://stikstore.app/altdirect/?url=https://github.com/LiveContainer/LiveContainer/releases/download/1.0/apps.json&exclude=livecontainer" target="_blank">
-   <img src="https://raw.githubusercontent.com/StikStore/altdirect/refs/heads/main/assets/png/AltSource_Blue.png" alt="Add AltSource" width="200"/>
+<a href="https://stikstore.app/altdirect/?url=https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/Spotify.json&r=livecontainer" target="_blank">
+   <img src="./icon/Spotify_Icon.png" alt="Add AltSource" width="200"/>
 </a>
 </td>
 <td>
