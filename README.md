@@ -11,7 +11,7 @@
 
 
 
-#<div align="center">
+<div align="center">
    <img width="217" height="217" src="./icon/Spotify_Icon.png" alt="Logo">
 </div>
 
@@ -22,5 +22,17 @@
 <h6 align="center">
 
 
-# MelonX v3.0
-https://stikstore.app/altdirect/?url=https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/MelonX.json&r=livecontainer
+
+
+<div align="center">
+   <img width="217" height="217" src="./icon/MelonX_Icon.png" alt="Logo">
+</div>
+
+<div align="center">
+  <h1><b>MelonX v2.3.0</b></h1>
+  <p><i>https://stikstore.app/altdirect/?url=https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/MelonX.json&r=livecontainer</i></p>
+</div>
+<h6 align="center">
+   
+   
+
