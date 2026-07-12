@@ -14,8 +14,7 @@
 
 <div align="center">
   <h1><b>Spotify++ v9.1.0</b></h1>
-  <p><i>An app launcher that runs iOS apps without actually installing them!
-https://stikstore.app/altdirect/?url=https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/Spotify.json&r=livecontainer  </i></p>
+  <p><i>https://stikstore.app/altdirect/?url=https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/Spotify.json&r=livecontainer</i></p>
 </div>
 <h6 align="center">
 
