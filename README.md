@@ -47,7 +47,7 @@
 <tr>   
 <td>
 <a href="https://stikstore.app/altdirect/?url=https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/MeloNX.json&r=livecontainer" target="_blank">
-   <img src="MeloNX 2.3.1" alt="Add AltSource" width="200"/>
+   <a src="MeloNX 2.3.1"/>
 </a>
 </td>
 <td>
