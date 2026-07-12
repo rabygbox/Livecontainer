@@ -2,6 +2,18 @@
 
 
 <td>
+<a href="https://github.com/nab138/iloader/releases/latest/download/iloader-windows-x64.msi" target="_blank">
+ <img width="117" height="117" 
+   <img src="./icon/.png" alt="Add AltSource"/>
+</a>
+   <div align="center">
+   <h1><b>SideStore (iLoader)</b></h1>
+</td>
+
+
+
+
+<td>
 <a href="https://stikstore.app/altdirect/?url=https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/AppJS/Spotify.json&r=livecontainer" target="_blank">
  <img width="117" height="117" 
    <img src="./icon/Spotify_Icon.png" alt="Add AltSource"/>
