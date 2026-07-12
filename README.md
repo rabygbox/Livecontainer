@@ -4,7 +4,7 @@
 <td>
 <a href="https://stikstore.app/altdirect/?url=https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/Spotify.json&r=livecontainer" target="_blank">
  <img width="117" height="117" 
-   <img src="./icon/Spotify_Icon.png" alt="Add AltSource" width="200"/>
+   <img src="./icon/Spotify_Icon.png" alt="Add AltSource"/>
 </a>
    <div align="center">
    <h1><b>Spotify++ v9.1.0</b></h1>
