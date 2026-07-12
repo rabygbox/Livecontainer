@@ -8,6 +8,11 @@
 <a href="https://github.com/nab138/iloader/releases/latest/download/iloader-windows-x64.msi" target="_blank">
     <b>iLoader</b>
 </a>
+
+<div align="center">
+<a href="https://www.apple.com/itunes/download/win64" target="_blank">
+    <b>iTunes</b>
+</a>
 <h1></h1>
 </td>
 
