@@ -46,7 +46,7 @@
 <table>
 <tr>
 <td>
-./icon/Spotify_Icon.png
+src="./icon/Spotify_Icon.png"
 </td>
 <td>
 <a href="https://stikstore.app/altdirect/?url=https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/Spotify.json&r=livecontainer" target="_blank">
