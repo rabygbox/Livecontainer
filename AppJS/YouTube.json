@@ -1,0 +1,29 @@
+{
+    "name": "YouTube++",
+    "subtitle": "Spotify++ Livecontainer Source.",
+    "description": "This is the official Livecontainer Source for Spotify++.\nUnlimited Music for iOS 16.0+",
+    "iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/YouTube_Icon.png",
+    "website": "",
+    "tintColor": "#94F3B1",
+    "apps": [
+        {
+            "name": "YouTube++",
+            "bundleIdentifier": "com.google.ios.youtube_802426455.app",
+            "developerName": "RabyG",
+            "subtitle": "Unlimited Music for iOS 16.0+",
+            "localizedDescription": "Unlimited Music for iOS 16.0+",
+            "iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/YouTube_Icon.png",
+            "tintColor": "#94F3B1",
+            "versions": [
+                {
+                    "version": "21.08.3",
+                    "date": "2026-07-15",
+                    "size": 121526170,
+                    "localizedDescription": "Features:\n - Added an in-app explore page for finding and downloading wallpapers\n - Added custom CarPlay wallpapers (will not work on iOS 26.0)\n - Preliminary iOS 16 support (not all wallpapers will work)\n - Improved certain error messages\n\nBug Fixes:\n - Fixed the aspect ratio/rotation of imported custom videos\n - Fixed the update API not being called correctly\n - Fixed issues with some alerts not popping up\n - Other various app stability improvements",
+                    "downloadURL": "https://sh0d82f8eedem7ak.myfritz.net:4278/nas/filelink.lua?id=55f5dab6accca595",
+                    "minOSVersion": "16.0"
+                }
+            ]
+        }
+    ]
+}
