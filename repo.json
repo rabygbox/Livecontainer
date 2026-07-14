@@ -1,0 +1,117 @@
+{
+	"name": "RabyG- Library",
+	"identifier": "com.rabyg.library",
+	"sourceURL": "https://burritosoftware.github.io/altstore/channels/burritosource.json",
+	"iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/Repo_Icon.png",
+	"apps": [
+		{
+			"name": "Spotify++",
+			"bundleIdentifier": "com.spotify.client.app",
+			"developerName": "Team",
+			"subtitle": "Spotify++ Livecontainer Source.",
+			"version": "9.1.28",
+			"versionDate": "2020-02-10",
+			"versionDescription": "Version 9.1.0 adds better support for Dark Mode on iOS, thus fixing #129 and #148. Additionally, landscape mode support for modern iPhones (after iPhone X) was improved, fixing #153. Additionally, a bug was fixed in which the status bar would appear in-game and not be dismissable.",
+			"downloadURL": "https://sh0d82f8eedem7ak.myfritz.net:4278/nas/filelink.lua?id=e4de1ded83bdf0bf",
+			"localizedDescription": "This is the official Livecontainer Source for Spotify++.\nUnlimited Music for iOS 16.0+",
+			"iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/Spotify_Icon.png",
+			"tintColor": "#94F3B1",
+			"screenshotURLs": [
+				"https://static.appdb.to/images/cydia-1900000021-iphone-0.png",
+				"https://static.appdb.to/images/cydia-1900000021-iphone-1.png",
+				"https://static.appdb.to/images/cydia-1900000021-iphone-2.png"
+			]
+		},
+		{
+			"name": "Youtube++",
+			"bundleIdentifier": "com.google.ios.youtube_802426455.app",
+			"developerName": "Team",
+			"subtitle": "Youtube++ Livecontainer Source.",
+			"version": "21.08.3",
+			"versionDate": "2018-03-13",
+			"versionDescription": "New Features:\nPlayStation core\nPokémon mini core\nVirtual Boy core\nAtari 7800 & Lynx core\nNeo Geo Pocket / Neo Geo Pocket Color core\nPC Engine / TurboGrafx-16 (CD) core\nSuperGrafx core\nPC-FX core\nWonderSwan core\nCRT Shader\n\nImprovements\nImporter improvements (MD5 matching and performance improvements)",
+			"downloadURL": "https://sh0d82f8eedem7ak.myfritz.net:4278/nas/filelink.lua?id=08ad7490c66caf3d",
+			"localizedDescription": "Relive the golden age of gaming.\n\nProvenance brings together a collection of classic gaming console emulators into a single app for your iPhone or iPad, with support for Apple Game Controllers for that authentic experience.",
+			"iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/YouTube_Icon.png",
+			"tintColor": "#E74C3C⁠",
+			"screenshotURLs": [
+				"https://33.media.tumblr.com/274a3178850133f7db0ef530a69ec26d/tumblr_nhqpnuOa2o1t0wlalo3_1280.jpg",
+				"https://38.media.tumblr.com/d964d6d809d06c55f23c4ef65eee08ce/tumblr_nhqpnuOa2o1t0wlalo2_1280.jpg",
+				"https://41.media.tumblr.com/c4e7f2d9363db90f89f91abc327033f0/tumblr_neu1ewLoQU1t0wlalo2_400.jpg"
+			]
+		},
+		{
+			"name": "MeloNX",
+			"bundleIdentifier": "com.stossy11.MeloNX.app",
+			"developerName": "Team",
+			"subtitle": "MelonX Livecontainer Source.",
+			"version": "2.3.1",
+			"versionDate": "2020-02-19",
+			"versionDescription": "Please visit https://getutm.app/install for more details.",
+			"downloadURL": "https://sh0d82f8eedem7ak.myfritz.net:4278/nas/filelink.lua?id=dd3eadb4922eb06a",
+			"localizedDescription": "UTM is a full featured virtual machine host for iOS. In short, it allows you to run Windows, Android, and more on your iPhone and iPad.\n\nFeatures:\n30+ processors supported including x86_64, ARM64, and RISC-V thanks to qemu as a backend\nFast native graphics through para-virtualization thanks to SPICE\nJIT based acceleration using qemu TCG\nFrontend designed from scratch for iOS11+ using the latest and greatest APIs\nCreate, manage, run VMs directly from your device\nNo jailbreak required!",
+			"iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/MeloNX_Icon.png",
+			"tintColor": "#D2143A",
+			"screenshotURLs": [
+				"http://placehold.it/750x1334"
+			]
+		},
+		{
+			"name": "Asspp",
+			"bundleIdentifier": "wiki.qaq.Asspp.app",
+			"developerName": "Team",
+			"subtitle": "A very crude iPhone thermometer",
+			"version": "4.2.1",
+			"versionDate": "2020-02-06",
+			"versionDescription": "An almost identical copy of the app but inside the Today widget.",
+			"downloadURL": "https://sh0d82f8eedem7ak.myfritz.net:4278/nas/filelink.lua?id=818ccabf0294f428",
+			"localizedDescription": "Because I'm tired of wondering if my animations are slow or if my device is just really hot.\n\nThe states:\n🥒 Your phone is cooler than you are. Burn.\n🔥 Your device is warm but performance is probably not being throttled.\n🔥🔥 Your device is hot and performance is probably throttled.\n🔥🔥🔥 Your device hurts to hold in places and performance is definitely being throttled.\n\nThis version of Thermometer was compiled by Burrito, and based off Ryan's thermometer at https://github.com/warpling/Thermometer",
+			"iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/Asspp_Icon.png",
+			"tintColor": "⁠#87CEEB",
+			"screenshotURLs": [
+				"https://cdn.discordapp.com/attachments/375175618079227914/681270931758383177/image0.png"
+			]
+		},
+		{
+			"name": "appdb",
+			"bundleIdentifier": "it.ned.appdb-ios",
+			"developerName": "n3d1117",
+			"subtitle": "A fully-featured iOS client for appdb.to written in Swift 5",
+			"version": "1.0.4",
+			"versionDate": "2019-12-07",
+			"versionDescription": "Custom developer identities are now detected correctly\nIntegrated new iOS 13 context menus, homescreen shortcuts & haptic feedbacks\nAdded pull to refresh to Featured tab\nAdded French translation (thanks to DzMohaipa)\nAdded Indonesian translation (thanks to Am1nCmd)\nAdded Javanese (Indonesia) translation (thanks to EskaseptianTeam)\nFixed bug where links were not clickable in News\nRemoved the (deprecated) option to link device via email\nVarious other minor fixes and additions",
+			"downloadURL": "https://github.com/n3d1117/appdb/releases/download/v1.0.4/appdb_1.0.4.ipa",
+			"localizedDescription": "appdb is the successor of our old website named appaddict. appdb was formed when ex staff were concerned for the security of the users of our old website. appdb was setup using a new perspective of simplicity yet effectiveness. This formed our app-less approach and simple interface to install apps.",
+			"iconURL": "https://static.appdb.to/images/cydia-1900000538-icon.png",
+			"tintColor": "#008CE3",
+			"screenshotURLs": [
+				"https://cdn.discordapp.com/attachments/558842854462717954/680945917465067599/appdb1.png",
+				"https://cdn.discordapp.com/attachments/558842854462717954/680945918417305613/appdb2.png",
+				"https://cdn.discordapp.com/attachments/558842854462717954/680945921420427266/appdb3.png",
+				"https://cdn.discordapp.com/attachments/558842854462717954/680945924255907860/appdb4.png"
+			]
+		},
+		{
+			"name": "Sileo Demo",
+			"bundleIdentifier": "org.coolstar.SileoDemo",
+			"developerName": "Sileo Team",
+			"subtitle": "Unpack the full potential of your iDevice.",
+			"version": "1.4.1",
+			"versionDate": "2019-09-07",
+			"versionDescription": "Sileo Demo has been updated to 1.4.1 so non-jailbroken users on iOS 11 -> iOS 13 beta 7 can experience the same speed as jailbroken users on 1.4.x!",
+			"downloadURL": "https://electrarepo64.coolstar.org/ipas/Sileo%20Demo%201.4.1.ipa",
+			"localizedDescription": "Sileo is a fast, beautiful, powerful and efficient APT Package Manager designed for jailbroken devices running iOS 11 and up with focus on being up to date and most importantly reliable.",
+			"iconURL": "https://pbs.twimg.com/profile_images/1019627376857280512/laMqxYhl_400x400.jpg",
+			"tintColor": "#1AC3BE",
+			"screenshotURLs": [
+				"https://pbs.twimg.com/media/ED-2Z-XUEAIYfJB?format=png&name=4096x4096",
+				"https://pbs.twimg.com/media/ED-2Z_YUUAAVQma?format=png&name=4096x4096",
+				"https://pbs.twimg.com/media/ED-2aAmUEAAa6wf?format=png&name=4096x4096",
+				"https://pbs.twimg.com/media/ED-2aCUUcAEsFzf?format=png&name=4096x4096"
+			]
+		}
+	],
+	"userInfo": {
+		"patreonAccessToken": "JLh5bpOQsPg-HIRe6FHnRAktoeeU4JT5-Xk-y7njQrM"
+	}
+}
