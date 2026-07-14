@@ -90,25 +90,6 @@
 				"https://cdn.discordapp.com/attachments/558842854462717954/680945921420427266/appdb3.png",
 				"https://cdn.discordapp.com/attachments/558842854462717954/680945924255907860/appdb4.png"
 			]
-		},
-		{
-			"name": "Sileo Demo",
-			"bundleIdentifier": "org.coolstar.SileoDemo",
-			"developerName": "Sileo Team",
-			"subtitle": "Unpack the full potential of your iDevice.",
-			"version": "1.4.1",
-			"versionDate": "2019-09-07",
-			"versionDescription": "Sileo Demo has been updated to 1.4.1 so non-jailbroken users on iOS 11 -> iOS 13 beta 7 can experience the same speed as jailbroken users on 1.4.x!",
-			"downloadURL": "https://electrarepo64.coolstar.org/ipas/Sileo%20Demo%201.4.1.ipa",
-			"localizedDescription": "Sileo is a fast, beautiful, powerful and efficient APT Package Manager designed for jailbroken devices running iOS 11 and up with focus on being up to date and most importantly reliable.",
-			"iconURL": "https://pbs.twimg.com/profile_images/1019627376857280512/laMqxYhl_400x400.jpg",
-			"tintColor": "#1AC3BE",
-			"screenshotURLs": [
-				"https://pbs.twimg.com/media/ED-2Z-XUEAIYfJB?format=png&name=4096x4096",
-				"https://pbs.twimg.com/media/ED-2Z_YUUAAVQma?format=png&name=4096x4096",
-				"https://pbs.twimg.com/media/ED-2aAmUEAAa6wf?format=png&name=4096x4096",
-				"https://pbs.twimg.com/media/ED-2aCUUcAEsFzf?format=png&name=4096x4096"
-			]
 		}
 	],
 	"userInfo": {
