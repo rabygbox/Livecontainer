@@ -4,7 +4,7 @@
     "description": "This is the official Livecontainer Source for Spotify++.\nUnlimited Music for iOS 16.0+",
     "iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/YouTube_Icon.png",
     "website": "",
-    "tintColor": "#94F3B1",
+    "tintColor": "#E74C3C⁠",
     "apps": [
         {
             "name": "YouTube++",
@@ -13,7 +13,7 @@
             "subtitle": "Unlimited Music for iOS 16.0+",
             "localizedDescription": "Unlimited Music for iOS 16.0+",
             "iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/YouTube_Icon.png",
-            "tintColor": "#94F3B1",
+            "tintColor": "#E74C3C⁠",
             "versions": [
                 {
                     "version": "21.08.3",
