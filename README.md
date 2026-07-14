@@ -33,43 +33,9 @@
 <a
  href="https://stikstore.app/altdirect/?url=https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/mai/repo.json&r=livecontainer"
    <div align="center">
-   <b>Spotify++ v9.1.0</b>
+   <b>Repository for Livecontainer</b>
 </a>
 <h1></h1>
 </td>
 
-
-
-
-<td>
-<div align="center">
-<a href="https://stikstore.app/altdirect/?url=https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/AppJS/MeloNX.json&r=livecontainer" target="_blank">
- <img width="117" height="117" 
-   <img src="./icon/MeloNX_Icon.png" alt="Add AltSource"/>
-</a>
-<div align="center">
-<a
- href="https://stikstore.app/altdirect/?url=https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/AppJS/MeloNX.json&r=livecontainer"
-   <div align="center">
-   <b>MelonX v2.3.1</b>
-</a> 
-<h1></h1>   
-</td>
-
-
-
-<td>
-<div align="center">
-<a href="https://stikstore.app/altdirect/?url=https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/AppJS/YouTube.json&r=livecontainer" target="_blank">
- <img width="117" height="117" 
-   <img src="./icon/YouTube_Icon.png" alt="Add AltSource"/>
-</a>
-<div align="center">
-<a
- href="https://stikstore.app/altdirect/?url=https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/AppJS/YouTube.json&r=livecontainer"
-   <div align="center">
-   <b>Youtube++ v21.08.3</b>
-</a> 
-<h1></h1>   
-</td>
 
