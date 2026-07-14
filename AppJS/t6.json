@@ -2,6 +2,7 @@
 	"name": "RabyG Library",
 	"identifier": "com.burritosoftware.AltStore",
 	"sourceURL": "https://burritosoftware.github.io/altstore/channels/burritosource.json",
+	"iconURL": "./
 	"apps": [{
 			"name": "iNDS",
 			"bundleIdentifier": "net.nerd.iNDS",
