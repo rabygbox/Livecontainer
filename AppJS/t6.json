@@ -2,7 +2,7 @@
 	"name": "RabyG Library",
 	"identifier": "com.burritosoftware.AltStore",
 	"sourceURL": "https://burritosoftware.github.io/altstore/channels/burritosource.json",
-	"iconURL": "./
+	"iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/Spotify_Icon.png",
 	"apps": [{
 			"name": "iNDS",
 			"bundleIdentifier": "net.nerd.iNDS",
