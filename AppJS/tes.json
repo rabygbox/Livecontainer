@@ -1,4 +1,21 @@
 {
+    "name": "RabyG- IPA Library",
+    "identifier": "xyz.cypwn.ipalibrary",
+    "subtitle": "CyPwn's Exclusive IPA Library",
+    "iconURL": "https:\/\/repo.cypwn.xyz\/assets\/images\/cypwn_small.png",
+    "website": "https:\/\/ipa.cypwn.xyz",
+    "sourceURL": "https:\/\/ipa.cypwn.xyz\/cypwn.json",
+    "tintColor": "FFC300",
+    "featuredApps": [
+        "Ed0ardo.CyPwnStore"
+    ],
+    "crypto": {
+        "btc": "bc1qy5xq4xdw4w83gpauxskassck4rwvpe7xdlvtws"
+    },
+    "apps": [
+        
+
+{
     "name": "Spotify++",
     "subtitle": "Spotify++ Livecontainer Source.",
     "description": "This is the official Livecontainer Source for Spotify++.\nUnlimited Music for iOS 16.0+",
@@ -22,8 +39,8 @@
                     "localizedDescription": "Features:\n - Added an in-app explore page for finding and downloading wallpapers\n - Added custom CarPlay wallpapers (will not work on iOS 26.0)\n - Preliminary iOS 16 support (not all wallpapers will work)\n - Improved certain error messages\n\nBug Fixes:\n - Fixed the aspect ratio/rotation of imported custom videos\n - Fixed the update API not being called correctly\n - Fixed issues with some alerts not popping up\n - Other various app stability improvements",
                     "downloadURL": "https://sh0d82f8eedem7ak.myfritz.net:4278/nas/filelink.lua?id=55f5dab6accca595",
                     "minOSVersion": "16.0"
-                
-
+                },                
+{
     "name": "YouTube++",
     "subtitle": "YouTube++ Livecontainer Source.",
     "description": "This is the official Livecontainer Source for Spotify++.\nUnlimited Music for iOS 16.0+",
