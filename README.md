@@ -62,7 +62,7 @@
 <div align="center">
 <a href="https://stikstore.app/altdirect/?url=https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/AppJS/MeloNX.json&r=livecontainer" target="_blank">
  <img width="117" height="117" 
-   <img src="./icon/Youtube_Icon.png" alt="Add AltSource"/>
+   <img src="./icon/YouTube_Icon.png" alt="Add AltSource"/>
 </a>
 <div align="center">
 <a
