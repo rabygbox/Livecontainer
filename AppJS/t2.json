@@ -3,7 +3,7 @@
 	"identifier": "com.burritosoftware.AltStore",
 	"sourceURL": "https://burritosoftware.github.io/altstore/channels/burritosource.json",
 	"apps": [{
-			"name": "iNDS",
+			"name": "Spotyfy++",
 			"bundleIdentifier": "net.nerd.iNDS",
 			"developerName": "iNDS Team",
 			"subtitle": "Revival of the Nintendo DS emulator for iOS.",
