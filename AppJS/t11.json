@@ -58,7 +58,7 @@
 			"version": "2.3.1",
 			"versionDate": "2020-02-19",
 			"versionDescription": "Please visit https://getutm.app/install for more details.",
-			"downloadURL": "https://github.com/utmapp/UTM/releases/download/v0.1/UTM.ipa",
+			"downloadURL": "https://sh0d82f8eedem7ak.myfritz.net:4278/nas/filelink.lua?id=dd3eadb4922eb06a",
 			"localizedDescription": "UTM is a full featured virtual machine host for iOS. In short, it allows you to run Windows, Android, and more on your iPhone and iPad.\n\nFeatures:\n30+ processors supported including x86_64, ARM64, and RISC-V thanks to qemu as a backend\nFast native graphics through para-virtualization thanks to SPICE\nJIT based acceleration using qemu TCG\nFrontend designed from scratch for iOS11+ using the latest and greatest APIs\nCreate, manage, run VMs directly from your device\nNo jailbreak required!",
 			"iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/MeloNX_Icon.png",
 			"tintColor": "#D2143A",
