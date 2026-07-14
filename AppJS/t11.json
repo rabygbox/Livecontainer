@@ -2,7 +2,7 @@
 	"name": "RabyG Library",
 	"identifier": "com.rabyg.library",
 	"sourceURL": "https://burritosoftware.github.io/altstore/channels/burritosource.json",
-	"iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/Spotify_Icon.png",
+	"iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/Repo_Icon.png",
 	"apps": [
 		{
 			"name": "Spotify++",
