@@ -25,13 +25,13 @@
 
 <td>
 <div align="center">
-<a href="https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/repo.json&r=livecontainer" target="_blank">
+<a href="https://stikstore.app/altdirect/?url=https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/repo.json&r=livecontainer" target="_blank">
  <img width="117" height="117" 
    <img src="./icon/Repo_Icon.png" alt="Add AltSource"/>
 </a>
 <div align="center">
 <a
-href="https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/repo.json&r=livecontainer"
+href="https://stikstore.app/altdirect/?url=https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/repo.json&r=livecontainer"
    <div align="center">
    <b>Repository for Livecontainer</b>
 </a>
