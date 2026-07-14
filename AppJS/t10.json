@@ -10,39 +10,22 @@
     "iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/Spotify_Icon.png",
     "website": "",
     "tintColor": "#94F3B1",
-    "apps": [
-        {
-            "name": "Spotify++",
-            "bundleIdentifier": "com.spotify.client.app",
-            "developerName": "RabyG",
-            "subtitle": "Unlimited Music for iOS 16.0+",
-            "localizedDescription": "Unlimited Music for iOS 16.0+",
-            "iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/Spotify_Icon.png",
-            "tintColor": "#94F3B1",
-            "versions": [
-                {
-                    "version": "9.1",
-                    "date": "2026-07-15",
-                    "size": 121526170,
-                    "localizedDescription": "Features:\n - Added an in-app explore page for finding and downloading wallpapers\n - Added custom CarPlay wallpapers (will not work on iOS 26.0)\n - Preliminary iOS 16 support (not all wallpapers will work)\n - Improved certain error messages\n\nBug Fixes:\n - Fixed the aspect ratio/rotation of imported custom videos\n - Fixed the update API not being called correctly\n - Fixed issues with some alerts not popping up\n - Other various app stability improvements",
-                    "downloadURL": "https://sh0d82f8eedem7ak.myfritz.net:4278/nas/filelink.lua?id=55f5dab6accca595",
-                    "minOSVersion": "16.0"
-		{
-			"name": "iNDS",
-			"bundleIdentifier": "net.nerd.iNDS",
-			"developerName": "iNDS Team",
-			"subtitle": "Revival of the Nintendo DS emulator for iOS.",
-			"version": "1.10.7",
+    "apps": [{
+			"name": "Spotify++",
+			"bundleIdentifier": "com.spotify.client.app",
+			"developerName": "Team",
+			"subtitle": "Music Unlimited for iOS.",
+			"version": "9.1.0",
 			"versionDate": "2020-02-10",
-			"versionDescription": "Version 1.10.7 adds better support for Dark Mode on iOS, thus fixing #129 and #148. Additionally, landscape mode support for modern iPhones (after iPhone X) was improved, fixing #153. Additionally, a bug was fixed in which the status bar would appear in-game and not be dismissable.",
-			"downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.7/iNDS.ipa",
-			"localizedDescription": "iNDS is a derivation of the previous Nintendo DS apps for iOS, nds4ios and Nitrogen. The iNDS Team release of iNDS is a fork of the original iNDS emulator by William Cobb. iNDS Team aims to create a version that is driven by support from the community, adding trusted contributors to the team over time, so that pull requests and issues do not sit untouched.\n\nCurrently, emulation is powered by the DeSmuME threaded ARM interpreter and runs at nearly full speed on the iPhone 5 and above. Due to the need to mmap the entire ROM into memory, older devices with only 256MB of RAM are not supported. These devices include the iPod Touch 4, iPad 1, iPhone 3GS, and anything below those devices.",
-			"iconURL": "https://inds.nerd.net/Resources/required/AppIcon256.png",
-			"tintColor": "FC2125",
-			"size": 857669,
+			"versionDescription": "Version 9.1.0 adds better support for Dark Mode on iOS, thus fixing #129 and #148. Additionally, landscape mode support for modern iPhones (after iPhone X) was improved, fixing #153. Additionally, a bug was fixed in which the status bar would appear in-game and not be dismissable.",
+			"downloadURL": "https://sh0d82f8eedem7ak.myfritz.net:4278/nas/filelink.lua?id=55f5dab6accca595",
+			"localizedDescription": "Spotify for iOS.",
+			"iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/Spotify_Icon.png",
+			"tintColor": "#94F3B1",
+			"size": 121526170,
 			"permissions": [{
-				"type": "photos",
-				"usageDescription": "Allows iNDS to use images from your Photo Library as game artwork."
+				"type": "Multimedia",
+				"usageDescription": "Music."
 			}],
 			"screenshotURLs": [
 				"https://static.appdb.to/images/cydia-1900000021-iphone-0.png",
