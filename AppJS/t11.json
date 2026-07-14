@@ -57,11 +57,11 @@
 			]
 		},
 		{
-			"name": "Thermometer",
-			"bundleIdentifier": "com.growpixel.blackbox.store.Thermometer",
-			"developerName": "Ryan McLeod",
+			"name": "Asspp",
+			"bundleIdentifier": "wiki.qaq.Asspp.app",
+			"developerName": "Team",
 			"subtitle": "A very crude iPhone thermometer",
-			"version": "1.0",
+			"version": "4.2.1",
 			"versionDate": "2020-02-06",
 			"versionDescription": "An almost identical copy of the app but inside the Today widget.",
 			"downloadURL": "https://github.com/burritosoftware/Thermometer/raw/master/Thermometer.ipa",
