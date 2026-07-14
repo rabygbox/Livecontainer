@@ -31,7 +31,7 @@
 </a>
 <div align="center">
 <a
- href="https://stikstore.app/altdirect/?url=https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/mai/repo.json&r=livecontainer"
+ href="https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/mai/repo.json&r=livecontainer"
    <div align="center">
    <b>Repository for Livecontainer</b>
 </a>
