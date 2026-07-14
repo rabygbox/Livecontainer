@@ -1,9 +1,9 @@
 {
-	"name": "RabyG AltStore",
+	"name": "Burrito's AltStore",
 	"identifier": "com.burritosoftware.AltStore",
-	"sourceURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/AppJS/t3.json",
+	"sourceURL": "https://burritosoftware.github.io/altstore/channels/burritosource.json",
 	"apps": [{
-			"name": "Spotyfy++",
+			"name": "iNDS",
 			"bundleIdentifier": "net.nerd.iNDS",
 			"developerName": "iNDS Team",
 			"subtitle": "Revival of the Nintendo DS emulator for iOS.",
@@ -140,7 +140,7 @@
 				"https://pbs.twimg.com/media/ED-2aCUUcAEsFzf?format=png&name=4096x4096"
 			]
 		}
-    }	],
+	],
 	"news": [
 		{
 			"title": "unc0ver is now out!",
