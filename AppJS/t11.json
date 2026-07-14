@@ -51,18 +51,18 @@
 			]
 		},
 		{
-			"name": "UTM",
-			"bundleIdentifier": "com.osy86.UTM",
-			"developerName": "osy86",
-			"subtitle": "Run virtual machines on iOS",
-			"version": "0.1",
+			"name": "MeloNX",
+			"bundleIdentifier": "com.stossy11.MeloNX.app",
+			"developerName": "Team",
+			"subtitle": "MelonX Livecontainer Source.",
+			"version": "2.3.1",
 			"versionDate": "2020-02-19",
 			"versionDescription": "Please visit https://getutm.app/install for more details.",
 			"downloadURL": "https://github.com/utmapp/UTM/releases/download/v0.1/UTM.ipa",
 			"localizedDescription": "UTM is a full featured virtual machine host for iOS. In short, it allows you to run Windows, Android, and more on your iPhone and iPad.\n\nFeatures:\n30+ processors supported including x86_64, ARM64, and RISC-V thanks to qemu as a backend\nFast native graphics through para-virtualization thanks to SPICE\nJIT based acceleration using qemu TCG\nFrontend designed from scratch for iOS11+ using the latest and greatest APIs\nCreate, manage, run VMs directly from your device\nNo jailbreak required!",
-			"iconURL": "https://getutm.app/assets/appicon.png",
-			"tintColor": "#1E47D0",
-			"size": 124967347,
+			"iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/MeloNX_Icon.png",
+			"tintColor": "#D2143A",
+			"size": 121526170,
 			"screenshotURLs": [
 				"http://placehold.it/750x1334"
 			]
