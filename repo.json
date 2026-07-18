@@ -60,7 +60,7 @@
 			"name": "Asspp",
 			"bundleIdentifier": "wiki.qaq.Asspp.app",
 			"developerName": "Team",
-			"subtitle": "A very crude iPhone thermometer",
+			"subtitle": "The Ultimate Multi-Region App Store Manager.",
 			"version": "4.2.1",
 			"versionDate": "2020-02-06",
 			"versionDescription": "An almost identical copy of the app but inside the Today widget.",
@@ -70,25 +70,6 @@
 			"tintColor": "⁠#87CEEB",
 			"screenshotURLs": [
 				"https://cdn.discordapp.com/attachments/375175618079227914/681270931758383177/image0.png"
-			]
-		},
-		{
-			"name": "appdb",
-			"bundleIdentifier": "it.ned.appdb-ios",
-			"developerName": "n3d1117",
-			"subtitle": "A fully-featured iOS client for appdb.to written in Swift 5",
-			"version": "1.0.4",
-			"versionDate": "2019-12-07",
-			"versionDescription": "Custom developer identities are now detected correctly\nIntegrated new iOS 13 context menus, homescreen shortcuts & haptic feedbacks\nAdded pull to refresh to Featured tab\nAdded French translation (thanks to DzMohaipa)\nAdded Indonesian translation (thanks to Am1nCmd)\nAdded Javanese (Indonesia) translation (thanks to EskaseptianTeam)\nFixed bug where links were not clickable in News\nRemoved the (deprecated) option to link device via email\nVarious other minor fixes and additions",
-			"downloadURL": "https://github.com/n3d1117/appdb/releases/download/v1.0.4/appdb_1.0.4.ipa",
-			"localizedDescription": "appdb is the successor of our old website named appaddict. appdb was formed when ex staff were concerned for the security of the users of our old website. appdb was setup using a new perspective of simplicity yet effectiveness. This formed our app-less approach and simple interface to install apps.",
-			"iconURL": "https://static.appdb.to/images/cydia-1900000538-icon.png",
-			"tintColor": "#008CE3",
-			"screenshotURLs": [
-				"https://cdn.discordapp.com/attachments/558842854462717954/680945917465067599/appdb1.png",
-				"https://cdn.discordapp.com/attachments/558842854462717954/680945918417305613/appdb2.png",
-				"https://cdn.discordapp.com/attachments/558842854462717954/680945921420427266/appdb3.png",
-				"https://cdn.discordapp.com/attachments/558842854462717954/680945924255907860/appdb4.png"
 			]
 		}
 	],
