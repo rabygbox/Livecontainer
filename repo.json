@@ -1,6 +1,7 @@
 {
 	"name": "RabyG- Library",
 	"identifier": "com.rabyg.library",
+	"subtitle": "Official RabyG- Library for easy find and install other apps.",
 	"sourceURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/repo.json",
 	"iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/Repo_Icon.png",
 	"apps": [
