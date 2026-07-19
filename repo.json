@@ -1,7 +1,7 @@
 {
 	"name": "RabyG- Library",
 	"identifier": "com.rabyg.library",
-	"sourceURL": "https://burritosoftware.github.io/altstore/channels/burritosource.json",
+	"sourceURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/repo.json",
 	"iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/Repo_Icon.png",
 	"apps": [
 		{
