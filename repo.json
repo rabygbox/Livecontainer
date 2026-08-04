@@ -11,8 +11,8 @@
 			"tintColor": "#94F3B1",
 			"bundleIdentifier": "com.spotify.client.app",
 			"subtitle": "Spotify++ Livecontainer Source.",
-			"downloadURL": "https://sh0d82f8eedem7ak.myfritz.net:4278/nas/filelink.lua?id=e4de1ded83bdf0bf",
-			"iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/Spotify_Icon.png"
+			"iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/Spotify_Icon.png",
+			"downloadURL": "https://sh0d82f8eedem7ak.myfritz.net:4278/nas/filelink.lua?id=e4de1ded83bdf0bf"
 		},
 		{
 			"name": "Youtube++",
