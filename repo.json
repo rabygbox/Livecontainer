@@ -52,27 +52,21 @@
 		},
 		{
 			"name": "GetMoreRam",
-			"bundleIdentifier": "com.aigch.getMoreRam.app",
-			"developerName": "Team",
-			"subtitle": "GetMoreRam for MeloNX",
 			"version": "1.0",
-			"versionDate": "2026-07-20",
-			"versionDescription": "Please visit https://git.ryujinx.app/projects/MeloNX#how-to-install for more details.",
-			"downloadURL": "https://github.com/hugeBlack/GetMoreRam/releases/download/nightly/GetMoreRam.ipa",
-			"localizedDescription": "UTM is a full featured virtual machine host for iOS. In short, it allows you to run Windows, Android, and more on your iPhone and iPad.\n\nFeatures:\n30+ processors supported including x86_64, ARM64, and RISC-V thanks to qemu as a backend\nFast native graphics through para-virtualization thanks to SPICE\nJIT based acceleration using qemu TCG\nFrontend designed from scratch for iOS11+ using the latest and greatest APIs\nCreate, manage, run VMs directly from your device\nNo jailbreak required!",
-			"iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/GetMoreRam_Icon.png"
+			"bundleIdentifier": "com.aigch.getMoreRam.app",
+			"subtitle": "GetMoreRam for MeloNX",
+			"tintColor": "true",
+			"iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/GetMoreRam_Icon.png",
+			"downloadURL": "https://github.com/hugeBlack/GetMoreRam/releases/download/nightly/GetMoreRam.ipa"
 		},
 		{
 			"name": "Asspp",
+		    "version": "4.2.1",
 			"bundleIdentifier": "wiki.qaq.Asspp.app",
-			"developerName": "Team",
 			"subtitle": "The Ultimate Multi-Region App Store Manager.",
-			"version": "4.2.1",
-			"versionDate": "2020-02-06",
-			"versionDescription": "An almost identical copy of the app but inside the Today widget.",
-			"downloadURL": "https://sh0d82f8eedem7ak.myfritz.net:4278/nas/filelink.lua?id=818ccabf0294f428",
-			"localizedDescription": "Because I'm tired of wondering if my animations are slow or if my device is just really hot.\n\nThe states:\n🥒 Your phone is cooler than you are. Burn.\n🔥 Your device is warm but performance is probably not being throttled.\n🔥🔥 Your device is hot and performance is probably throttled.\n🔥🔥🔥 Your device hurts to hold in places and performance is definitely being throttled.\n\nThis version of Thermometer was compiled by Burrito, and based off Ryan's thermometer at https://github.com/warpling/Thermometer",
-			"iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/Asspp_Icon.png"
+		    "tintColor": "true",
+			"iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/Asspp_Icon.png",
+			"downloadURL": "https://sh0d82f8eedem7ak.myfritz.net:4278/nas/filelink.lua?id=818ccabf0294f428"
 		}
 	],
 	"userInfo": {
