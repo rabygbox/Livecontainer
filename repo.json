@@ -43,7 +43,7 @@
 		},
 		{
 			"name": "Nuvio",
-			"bundleIdentifier": "com.google.ios.youtube_802426455.app",
+			"bundleIdentifier": "com.nuvio.media.app",
 			"developerName": "Team",
 			"subtitle": "Nuvio Livecontainer Source.",
 			"version": "0.3.1",
@@ -57,6 +57,22 @@
 				"https://33.media.tumblr.com/274a3178850133f7db0ef530a69ec26d/tumblr_nhqpnuOa2o1t0wlalo3_1280.jpg",
 				"https://38.media.tumblr.com/d964d6d809d06c55f23c4ef65eee08ce/tumblr_nhqpnuOa2o1t0wlalo2_1280.jpg",
 				"https://41.media.tumblr.com/c4e7f2d9363db90f89f91abc327033f0/tumblr_neu1ewLoQU1t0wlalo2_400.jpg"
+			]
+		},
+		{
+			"name": "Dolphin",
+			"bundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta.app",
+			"developerName": "Team",
+			"subtitle": "Dolphin is an iOS Nintendo Wii emulator.",
+			"version": "5.0.0b6",
+			"versionDate": "2026-07-20",
+			"versionDescription": "Please visit https://git.ryujinx.app/projects/MeloNX#how-to-install for more details.",
+			"downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b6/Non-Jailbroken.ipa",
+			"localizedDescription": "UTM is a full featured virtual machine host for iOS. In short, it allows you to run Windows, Android, and more on your iPhone and iPad.\n\nFeatures:\n30+ processors supported including x86_64, ARM64, and RISC-V thanks to qemu as a backend\nFast native graphics through para-virtualization thanks to SPICE\nJIT based acceleration using qemu TCG\nFrontend designed from scratch for iOS11+ using the latest and greatest APIs\nCreate, manage, run VMs directly from your device\nNo jailbreak required!",
+			"iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/MeloNX_Icon.png",
+			"tintColor": "#D2143A",
+			"screenshotURLs": [
+				"http://placehold.it/750x1334"
 			]
 		},
 		{
@@ -75,7 +91,7 @@
 				"http://placehold.it/750x1334"
 			]
 		},
-				{
+		{
 			"name": "GetMoreRam",
 			"bundleIdentifier": "com.aigch.getMoreRam.app",
 			"developerName": "Team",
