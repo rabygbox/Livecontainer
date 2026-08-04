@@ -16,11 +16,7 @@
 			"downloadURL": "https://sh0d82f8eedem7ak.myfritz.net:4278/nas/filelink.lua?id=e4de1ded83bdf0bf",
 			"localizedDescription": "This is the official Livecontainer Source for Spotify++.\nUnlimited Music for iOS 16.0+",
 			"iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/Spotify_Icon.png",
-			"tintColor": "#94F3B1",
-			"screenshotURLs": [
-				"https://static.appdb.to/images/cydia-1900000021-iphone-0.png",
-				"https://static.appdb.to/images/cydia-1900000021-iphone-1.png",
-				"https://static.appdb.to/images/cydia-1900000021-iphone-2.png"
+			"tintColor": "#94F3B1"
 		},
 		{
 			"name": "Youtube++",
@@ -33,7 +29,6 @@
 			"downloadURL": "https://sh0d82f8eedem7ak.myfritz.net:4278/nas/filelink.lua?id=04fd6dddce90d52a",
 			"localizedDescription": "Relive the golden age of gaming.\n\nProvenance brings together a collection of classic gaming console emulators into a single app for your iPhone or iPad, with support for Apple Game Controllers for that authentic experience.",
 			"iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/YouTube_Icon.png"
-			]
 		},
 		{
 			"name": "Nuvio",
