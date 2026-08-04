@@ -19,7 +19,7 @@
 			"version": "21.24.3",
 			"bundleIdentifier": "com.google.ios.youtube_802426455.app",
 			"subtitle": "Youtube++ Livecontainer Source.",
-			"tintColor": "Auto",
+			"tintColor": "System",
 			"iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/YouTube_Icon.png",
 			"downloadURL": "https://sh0d82f8eedem7ak.myfritz.net:4278/nas/filelink.lua?id=04fd6dddce90d52a"
 		},
