@@ -46,7 +46,7 @@
 			"version": "2.5.0",
 			"bundleIdentifier": "com.stossy11.MeloNX.app",
 			"subtitle": "MeloNX is an iOS Nintendo Switch emulator based on Ryujinx.",
-			"tintColor": "true",
+			"tintColor": "#00C3E3",
 			"iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/MeloNX_Icon.png",
 			"downloadURL": "https://git.ryujinx.app/projects/MeloNX/releases/download/2.5/MeloNX.ipa"
 		},
@@ -55,7 +55,7 @@
 			"version": "1.0",
 			"bundleIdentifier": "com.aigch.getMoreRam.app",
 			"subtitle": "GetMoreRam for MeloNX",
-			"tintColor": "true",
+			"tintColor": "#00E676",
 			"iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/GetMoreRam_Icon.png",
 			"downloadURL": "https://github.com/hugeBlack/GetMoreRam/releases/download/nightly/GetMoreRam.ipa"
 		},
@@ -64,7 +64,7 @@
 		    "version": "4.2.1",
 			"bundleIdentifier": "wiki.qaq.Asspp.app",
 			"subtitle": "The Ultimate Multi-Region App Store Manager.",
-		    "tintColor": "true",
+		    "tintColor": "#38A1F3",
 			"iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/Asspp_Icon.png",
 			"downloadURL": "https://sh0d82f8eedem7ak.myfritz.net:4278/nas/filelink.lua?id=818ccabf0294f428"
 		}
