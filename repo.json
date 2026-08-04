@@ -7,12 +7,11 @@
 	"apps": [
 		{
 			"name": "Spotify++",
+			"version": "9.1.28",
 			"tintColor": "#94F3B1",
 			"bundleIdentifier": "com.spotify.client.app",
 			"subtitle": "Spotify++ Livecontainer Source.",
-			"version": "9.1.28",
 			"downloadURL": "https://sh0d82f8eedem7ak.myfritz.net:4278/nas/filelink.lua?id=e4de1ded83bdf0bf",
-			"localizedDescription": "This is the official Livecontainer Source for Spotify++.\nUnlimited Music for iOS 16.0+",
 			"iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/Spotify_Icon.png"
 		},
 		{
