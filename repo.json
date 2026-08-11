@@ -25,12 +25,12 @@
 		},
 		{
 			"name": "Nuvio",
-			"version": "0.3.1",
+			"version": "0.4.3",
 			"bundleIdentifier": "com.nuvio.media.app",
 			"subtitle": "Nuvio Livecontainer Source.",
 			"tintColor": "#5D3EA8",
             "iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/Nuvio_Icon.png",
-			"downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.3.1/Nuvio-v0.3.1-Enhanced.ipa"
+			"downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.3/Nuvio-v0.4.3-Enhanced.ipa"
 		},
 		{
 			"name": "Dolphin",
