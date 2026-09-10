@@ -43,12 +43,12 @@
 		},
 		{
 			"name": "MeloNX",
-			"version": "2.5.0",
+			"version": "2.6.0",
 			"bundleIdentifier": "com.stossy11.MeloNX.app",
 			"subtitle": "MeloNX is an iOS Nintendo Switch emulator based on Ryujinx.",
 			"tintColor": "#00C3E3",
 			"iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/MeloNX_Icon.png",
-			"downloadURL": "https://git.ryujinx.app/projects/MeloNX/releases/download/2.5/MeloNX.ipa"
+			"downloadURL": "https://git.ryujinx.app/projects/MeloNX/releases/download/2.6/MeloNX.ipa"
 		},
 		{
 			"name": "GetMoreRam",
