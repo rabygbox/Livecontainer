@@ -52,7 +52,7 @@
 		},
         {
 			"name": "Pocket Poster",
-			"version": 3.0",
+			"version": "3.0",
 			"bundleIdentifier": "com.stossy11.MeloNX.app",
 			"subtitle": "Animated Poster for iOD.",
 			"tintColor": "#00C3E3",
