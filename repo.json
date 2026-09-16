@@ -50,7 +50,7 @@
 			"iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/MeloNX_Icon.png",
 			"downloadURL": "https://git.ryujinx.app/projects/MeloNX/releases/download/2.6/MeloNX.ipa"
 		},
-				{
+		{
 			"name": "MeloCafr",
 			"version": "1.0",
 			"bundleIdentifier": "com.stossy11.MeloCafe.app",
