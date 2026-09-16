@@ -51,12 +51,12 @@
 			"downloadURL": "https://git.ryujinx.app/projects/MeloNX/releases/download/2.6/MeloNX.ipa"
 		},
 		{
-			"name": "MeloCafr",
+			"name": "MeloCafe",
 			"version": "1.0",
 			"bundleIdentifier": "com.stossy11.MeloCafe.app",
 			"subtitle": "MeloCafe is an iOS Nintendo Wii U emulator.",
 			"tintColor": "#00C3E3",
-			"iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/MeloCafe%CC%81_Icon.png",
+			"iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/MeloCafe_Icon.png",
 			"downloadURL": "https://github.com/stossy11/MeloCafe/releases/download/1.0/MeloCafe.ipa"
 		},
         {
