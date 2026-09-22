@@ -24,13 +24,13 @@
 			"downloadURL": "https://github.com/mrdrvt99/YouProEXTRA/releases/download/ytl-ipa5/YouTubePlus_21.24.3_5.2.2.ipa"
 		},
 		{
-			"name": "Nuvio",
-			"version": "0.4.26",
+			"name": "Nuvio Enhanced",
+			"version": "0.5.0",
 			"bundleIdentifier": "com.nuvio.media.app",
 			"subtitle": "Nuvio Livecontainer Source.",
 			"tintColor": "#5D3EA8",
             "iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/Nuvio_Icon.png",
-			"downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.26-beta/Nuvio-0.4.26-Enhanced.ipa"
+			"downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.5.0-beta/Nuvio-0.5.0-Enhanced.ipa"
 		},
 		{
 			"name": "Dolphin",
