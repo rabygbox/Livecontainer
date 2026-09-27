@@ -21,7 +21,7 @@
 			"subtitle": "Youtube++ Livecontainer Source.",
 			"tintColor": "#FC2125",
 			"iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/YouTube_Icon.png",
-			"downloadURL": "https://github.com/mrdrvt99/YouProEXTRA/releases/download/ytl-ipa5/YouTubePlus_21.24.3_5.2.2.ipa"
+			"downloadURL": "https://github.com/mrdrvt99/YouProEXTRA/releases/download/ytl-ipa3/YouTubePlus_21.24.3_5.2.2.ipa"
 		},
 		{
 			"name": "Nuvio Enhanced",
@@ -43,7 +43,7 @@
 		},
 		{
 			"name": "MeloNX",
-			"version": "2.6.0",
+			"version": "2.5.0",
 			"bundleIdentifier": "com.stossy11.MeloNX.app",
 			"subtitle": "MeloNX is an iOS Nintendo Switch emulator based on Ryujinx.",
 			"tintColor": "#00C3E3",
