@@ -7,12 +7,12 @@
 	"apps": [
 		{
 			"name": "Spotify++",
-			"version": "9.1.28",
+			"version": "9.1.88",
 			"bundleIdentifier": "com.spotify.client.app",
 			"subtitle": "Spotify++ Livecontainer Source.",
 			"tintColor": "#94F3B1",
 			"iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/Spotify_Icon.png",
-			"downloadURL": "https://sh0d82f8eedem7ak.myfritz.net:4278/nas/filelink.lua?id=e4de1ded83bdf0bf"
+			"downloadURL": "https://sh0d82f8eedem7ak.myfritz.net:4278/nas/filelink.lua?id=084abdf410c7016c"
 		},
 		{
 			"name": "Youtube++",
