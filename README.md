@@ -33,7 +33,7 @@
 
 <td>
 <div align="center">
-<a href="https://altdirect.app/?url=https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/repo.json” target="_blank">
+<a href="https://altdirect.app/?url=https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/repo.json&r=livecontainer” target="_blank">
  <img width="117" height="117" 
    <img src="./icon/Repo_Icon.png" alt="Add AltSource"/>
 </a>
