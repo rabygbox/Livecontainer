@@ -56,7 +56,7 @@
 			"bundleIdentifier": "com.am4rdev.EspressU.app",
 			"subtitle": "EspressU is an iOS Nintendo Wii U emulator.",
 			"tintColor": "#00C3E3",
-			"iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/MeloCafe_Icon.png",
+			"iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/EspressU_Icon.png",
 			"downloadURL": "https://github.com/EspressU/EspressU-Emu/releases/download/v1.2/EspressU-1.2.ipa"
 		},
         {
