@@ -51,13 +51,13 @@
 			"downloadURL": "https://starforgejo.dev/projects/MeloNX/releases/download/2.7/MeloNX.ipa"
 		},
 		{
-			"name": "MeloCafe",
-			"version": "1.0",
-			"bundleIdentifier": "com.stossy11.MeloCafe.app",
-			"subtitle": "MeloCafe is an iOS Nintendo Wii U emulator.",
+			"name": "EspressU",
+			"version": "1.2",
+			"bundleIdentifier": "com.am4rdev.EspressU.app",
+			"subtitle": "EspressU is an iOS Nintendo Wii U emulator.",
 			"tintColor": "#00C3E3",
 			"iconURL": "https://raw.githubusercontent.com/rabygbox/Livecontainer/refs/heads/main/icon/MeloCafe_Icon.png",
-			"downloadURL": "https://github.com/stossy11/MeloCafe/releases/download/1.0/MeloCafe.ipa"
+			"downloadURL": "https://github.com/EspressU/EspressU-Emu/releases/download/v1.2/EspressU-1.2.ipa"
 		},
         {
 			"name": "Pocket Poster",
